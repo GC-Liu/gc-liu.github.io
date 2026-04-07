@@ -8,8 +8,8 @@ author_profile: true
 Selected Publications (CCF-A Tier)
 ------
 [C] Zihan Ma, **Guangchi Liu**, Xiangyu Xu, Shaofeng Li, Zhen Ling and Junzhou Luo, “A Needle in a Haystack: Defending Federated Learning Backdoor Attacks via Orthogonal Subnetwork Pruning” in ***IEEE International Conference on Computer Communications (INFOCOM)*** 2026.  <br/><br/>
-[C] Rong Wang, Zhen Ling, **Guangchi Liu**, Shaofeng Li, Junzhou Luo and Xinwen Fu “Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization” in ***Network and Distributed System Security (NDSS)*** 2026.  <br/><br/>
 [C] Chunmian Wang, Junzhou Luo, Zhen Ling, Yue Zhang, Shan Wang, Ming Yang, **Guangchi Liu** and FU Xinwen, “Descriptors of Exposure: Undermining Tor Anonymity through Exploiting Descriptor Flood” in ***IEEE Symposium on Security and Privacy (S&P)*** 2026.  <br/><br/>
+[C] Rong Wang, Zhen Ling, **Guangchi Liu**, Shaofeng Li, Junzhou Luo and Xinwen Fu “Cease at the Ultimate Goodness: Towards Efficient Website Fingerprinting Defense via Iterative Mutual Information Minimization” in ***Network and Distributed System Security (NDSS)*** 2026.  <br/><br/>
 [C] Hongze Wang, Zhen Ling, Xiangyu Xu, Yumingzhi Pan, **Guangchi Liu**, Junzhou Luo and Xinwen Fu, “Time will Tell: Large-scale De-anonymization of Hidden I2P Services via Live Behavior Alignment” in ***Network and Distributed System Security (NDSS)*** 2026.  <br/><br/>
 [C] Chongqing Lei, Zhen Ling, Xiangyu Xu, Shaofeng Li, **Guangchi Liu**, Kai Dong and Junzhou Luo, “Towards Flexible MCU Peripheral Emulation” in ***ACM Conference on Computer and Communications Security (CCS)*** 2025.  <br/><br/>
 [C] Yumingzhi Pan, Zhen Ling, Yue Zhang, Hongze Wang, **Guangchi Liu**, Junzhou Luo and Xinwen Fu, “TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network” in ***USENIX Security Symposium (Security)*** 2025.  <br/><br/>
